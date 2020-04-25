@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 23 15:52:26 2020
-
-@author: JYOTHISH
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 23 12:13:13 2020
-
-@author: JYOTHISH
-"""
-
-
 import numpy as np
 import cv2
 import csv
